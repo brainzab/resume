@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Кирилл Григорьев — Product/Project Manager',
-  description: 'Product/Project Manager из Минска. Опыт в web3, UX/UI, управлении командами и технической реализации проектов.',
+  title: 'Kirill Grigoriev',
+  description: 'Technica; Specialist',
   generator: 'v0.app',
   icons: {
     icon: [
