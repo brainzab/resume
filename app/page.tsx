@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           
           <p className="text-base tracking-wide text-muted-foreground mt-3">
-            Technical Specialist
+            Technical Specialist2
           </p>
         </header>
 
