@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Kirill Grigoriev',
-  description: 'Technica; Specialist',
+  description: 'Technical Specialist',
   generator: 'v0.app',
   icons: {
     icon: [
